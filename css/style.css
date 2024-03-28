@@ -6117,6 +6117,9 @@ img.left {
   .header-crev {
     padding-top: 70px;
   }
+  .navbar .navbar-nav .nav-link {
+    color: #fff;
+  }
 }
 
 /* ====================== [ End Responsive ] ====================== */
